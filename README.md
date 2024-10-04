@@ -28,7 +28,7 @@ Los generamos poniendo un hastag (#) podemos poner hasta 6, siendo el 1 el más 
 ## Negrita y cursiva
 
 
-#### Texto en negrita 
+### Texto en negrita 
 
 Ahora veremos como poner texto tanto en negrita como en cursiva, tenemos varias formas
 
@@ -44,7 +44,7 @@ __Texto en negrita con guines bajos__
 **Texto en negrita con asteriscos**
 
 
-#### Texto en cursiva
+### Texto en cursiva
 
 Para poner un texto o parte de en cursiva lo haremos de la sigüiente forma: utilizaremos o bien 1 guione bajo o 1 asterisco al principio y final de la palabra/parte del texto, como vemos en el ejemplo de abajo y mas abajo vemos como queda
 
@@ -58,7 +58,7 @@ _Texto en cursiva con guines bajos_
 *Texto en cursiva con asteriscos*
 
 
-#### Texto en negrita y cursiva a la vez
+### Texto en negrita y cursiva a la vez
 
 Si os preguntais si se pueden juntar en un mismo texto la negrita y la cursiva, la respuesta es q si.
 
