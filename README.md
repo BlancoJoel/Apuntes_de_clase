@@ -25,6 +25,8 @@ Los generamos poniendo un hastag (#) podemos poner hasta 6, siendo el 1 el más 
 ###### H6
 
 
+## Negrita y cursiva
+
 Ahora veremos como poner texto tanto en negrita como en cursiva, tenemos varias formas
 
 Para poner un texto o parte de en negrita lo haremos de la sigüiente forma: utilizaremos o bien 2 guiones bajos o 2 asteriscos al principio y final de la palabra/parte del texto, como vemos en el ejemplo de abajo y mas abajo vemos como queda
@@ -35,6 +37,7 @@ __Texto en negrita con guines bajos__
 ```
 
 __Texto en negrita con guines bajos__
+
 **Texto en negrita con asteriscos**
 
 
@@ -46,4 +49,5 @@ _Texto en cursiva con guines bajos_
 ```
 
 _Texto en cursiva con guines bajos_
+
 *Texto en cursiva con asteriscos*
