@@ -51,3 +51,18 @@ _Texto en cursiva con guines bajos_
 _Texto en cursiva con guines bajos_
 
 *Texto en cursiva con asteriscos*
+
+Si os preguntais si se pueden juntar en un mismo texto la negrita y la cursiva, la respuesta es q si.
+
+Se hace de la sigüiente manera pero vamos a matizar una cosa, y es que la gente pensara si 1 asterisco o guion bajo es cursiva y 2 asteriscos o guiones bajos es negrita, y si junto las dos cosas es decir pongo 3 asteriscos o guiones bajos y ya estaria, pero la realidad es que no es asi, basicamente porque esta union no hace nada, si nos fijamos tenemos 2 formas de poner tanto la negrita como la cursiva, eso esta hecho para que podamos combinarlos, hay que poner primero . Ej abajo
+
+```
+**_Texto en cursiva y negrita 1r opción_**
+*__Texto en cursiva y negrita 2n opción__*
+```
+
+**_Texto en cursiva y negrita 1r opción_**
+
+*__Texto en cursiva y negrita 2n opción__*
+
+__*Texto en cursiva y negrita 2n opción*__
